@@ -15,3 +15,5 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 2. Jalankan `npm install`.
 3. Jalankan `npx expo start`."# tugasproject2026" 
 "# coba-coba-test" 
+"# yuncheng" 
+"# yuncheng" 
