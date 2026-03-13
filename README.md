@@ -14,3 +14,4 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 1. Clone repository ini.
 2. Jalankan `npm install`.
 3. Jalankan `npx expo start`."# tugasproject2026" 
+"# coba-coba-test" 
